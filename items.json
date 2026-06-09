@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "TC-1780979596180",
+    "name": "Test title",
+    "year": "2026",
+    "category": "Apparel",
+    "backstory": "This is a test description",
+    "maker": "Mug",
+    "medium": "Bottle",
+    "dimensions": "Large",
+    "condition": "Ok",
+    "provenance": "Amazon",
+    "image": "https://res.cloudinary.com/dvywqqnwg/image/upload/v1780979557/archive/umnafr6w8tmwsukqnw58.jpg",
+    "addedAt": "2026-06-09T04:33:16.182Z"
+  }
+]
